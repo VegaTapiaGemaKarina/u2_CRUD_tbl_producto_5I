@@ -1,0 +1,2 @@
+# u2_CRUD_tbl_producto_5I
+producto CRUD, CREAR, LEER, ACTUALIZAR Y BORRAR REGISTROS
